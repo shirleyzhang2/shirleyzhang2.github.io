@@ -1,13 +1,10 @@
 ---
-title: 
+title: Test Blog Post
 layout: post
-author:
-date: 
+author: Shirley Zhang
+date: 2020-04-29
 
 ---
-
-# Test Blog Post
-Date: 2020-04-29
 
 Just a a test!
 
