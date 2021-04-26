@@ -3,7 +3,7 @@ layout: default
 ---
 ## Introduction
 
-I'm an undergraduate student at the University of Toronto pursuing a major in Civil Engineering and a minor in Artificial Intelligence. Since 2018, I have been working with [Dr.Oya Mercan](https://civmin.utoronto.ca/home/about-us/directory/professors/oya-mercan/) on seismic hazard mitigation for large Liquefied Natural Gas (LNG) storage tanks. My research interest lies in the intersection of infrastructure and technology, and I hope to improve the efficiency and resilience of critical infrastructure systems using computational and data science techniques.
+I'm an undergraduate student at the University of Toronto pursuing a major in Civil Engineering and a minor in Artificial Intelligence. Since 2018, I have been working with [Dr.Oya Mercan](https://civmin.utoronto.ca/home/about-us/directory/professors/oya-mercan/) on seismic hazard mitigation for large Liquefied Natural Gas (LNG) storage tanks. My research interest lies at the intersection of infrastructure and technology, and I hope to improve the efficiency and resilience of critical infrastructure systems using computational and data science techniques.
 
 ## Projects
 Some highlights from my work and school experiences can be found [here](./projects.html).
