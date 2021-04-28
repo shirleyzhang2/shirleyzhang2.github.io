@@ -24,7 +24,7 @@ During my 1-year internship at [Terrestrial Energy](https://www.terrestrialenerg
 
 [designcheck]: /assets/img/projects/designcheck.png
 
-During my summer internship at [Arup](https://www.arup.com/), I contributed to [DesignCheck](https://www.autodesk.com/autodesk-university/class/Dynamo-Engineers-Design-All-2018), a C# platform that performs user-defined engineering calculations and generates formatted reports via dynamically generated web APIs. By building a centralized hub of calculations to iterate and control design processes, DesignCheck helps inform, improve, and accelerate project delivery. [(video demo)](https://www.youtube.com/watch?v=tQEU4uQOVuI)
+During my summer internship at [Arup](https://www.arup.com/), I contributed to [DesignCheck](https://www.autodesk.com/autodesk-university/class/Dynamo-Engineers-Design-All-2018), a C# platform that performs user-defined engineering calculations and creates formatted reports via dynamically generated web APIs. By building a centralized hub of calculations to iterate and control design processes, DesignCheck helps inform, improve, and accelerate project delivery. [(video demo)](https://www.youtube.com/watch?v=tQEU4uQOVuI)
 
 
 ## Settle3
@@ -34,7 +34,7 @@ During my summer internship at [Arup](https://www.arup.com/), I contributed to [
 
 [settle3]: /assets/img/projects/settle3.PNG
 
-During my summer internship at [Rocscience](https://www.rocscience.com/), I developed liquefaction and ground improvement features for a 3D Soil Analysis Software called [Settle3](https://www.rocscience.com/software/settle3) using C++. My contributions involved literary review, backend development, user interface design, and documentation.
+During my summer internship at [Rocscience](https://www.rocscience.com/), I developed <a href=".\docs\pdf\Settle3_update.pdf">ground improvement and settlement calculation features</a> for a 3D Soil Analysis Software called [Settle3](https://www.rocscience.com/software/settle3) using C++. My contributions involved literary review, backend development, user interface design, and documentation.
 
 
 ## Autobuilder
@@ -53,6 +53,6 @@ As a co-captain for the [UofT Seismic Design Team](http://seismic.skule.ca/), I 
 
 [lng]: /assets/img/projects/panda.png
 
-As the technical director for the [UofT Concrete Canoe Team](https://canoe.skule.ca/), I leveraged MATLAB to determine the levels of stress experienced by the canoe in a variety of static and dynamic loading cases such as construction, transport, and paddling.  I also helped develop a C++ program that optimizes hull geometry by balancing maneuverability and fluid resistance. In 2019, our team won 4th place at the [Canadian National Concrete Canoe Competition](https://www.cscecompetitions.ca/en/home/cnccc/.    
+As the technical director for the [UofT Concrete Canoe Team](https://canoe.skule.ca/), I leveraged MATLAB to determine the levels of stress experienced by the canoe in a variety of static and dynamic loading cases such as construction, transport, and paddling.  I also helped develop a C++ program that optimizes hull geometry by balancing maneuverability and fluid resistance. In 2019, our team won 4th place at the [Canadian National Concrete Canoe Competition](https://www.cscecompetitions.ca/en/home/cnccc/).    
 
 [Back to home](/)
