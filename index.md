@@ -16,7 +16,7 @@ Some highlights from my work and school experiences can be found [here](./projec
 ## Other
 <span style="font-size:18px;">[Blog](./blog.html)</span>
 
-<span style="font-size:18px;">[Travel Sketching](./sketching.html)</span>
+<span style="font-size:18px;">[Travel](./travel.html)</span>
 
 <!-- <span style="font-size:18px;">[Blog](./blog.html)</span> for fun.-->
 
