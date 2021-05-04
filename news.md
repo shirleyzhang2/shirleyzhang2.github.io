@@ -1,10 +1,11 @@
 ---
-title: Updates
-layout: post
-author: Shirley Zhang
-date: 2021-04-24
+title: 
+layout: Default
+author: 
+date: 
 
 ---
+# Updates
 
 ## 2021
 

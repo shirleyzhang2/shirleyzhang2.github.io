@@ -7,7 +7,7 @@ author: Shirley Zhang
 
 # Travel Sketching
 
-## Caturing travel scenaries with watercolor.
+## Capturing travel scenaries with watercolor.
 
 ### 2017.7 - Sensoji Tempo, Tokyo
 ![sensoji](./assets/img/sketches/sensoji.jpg)
