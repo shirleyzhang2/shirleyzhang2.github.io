@@ -1,12 +1,10 @@
 ---
-title: 
+title: Updates
 layout: post
 author: 
 date: 
 
 ---
-# Updates
-
 ## 2021
 
 **2021.03** Attended the 2021 Earthquake Engineering Research Institute <a href="https://matchboxvirtual.com/eeri-annual-meeting-2021/">Annual Meeting</a>
