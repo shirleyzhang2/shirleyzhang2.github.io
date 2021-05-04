@@ -1,8 +1,8 @@
 ---
+title: 
 layout: default
-title: Travel Sketching
-author: Shirley Zhang
-
+author: 
+date: 
 ---
 
 # Travel Sketching

@@ -1,6 +1,6 @@
 ---
 title: 
-layout: Default
+layout: post
 author: 
 date: 
 
