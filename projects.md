@@ -7,16 +7,15 @@ date:
 
 # Projects
 
-<!-- ### Things I did at work, research, and school-->
 ## Aircraft Impact Analysis
 ### 2020.9 - present
 
 ![aia](./assets/img/projects/aia_cropped.png)
 
-During my 1-year internship at [Terrestrial Energy](https://www.terrestrialenergy.com/), I helped design nuclear buildings and reactor support structures for Integral Molten Salt Reactors (IMSR). I focused on the research and development of aircraft impact analysis and submitted an oral presentation to the [2021 Women in Nuclear Global Conference](https://womeninnuclear.com/news-events/events/2021-women-in-nuclear-global-conference/).
+During my ongoing internship at [Terrestrial Energy](https://www.terrestrialenergy.com/), I helped design nuclear buildings and reactor support structures for Integral Molten Salt Reactors (IMSR). I focused on the research and development of aircraft impact analysis and presented at the  [2021 Women in Nuclear Global Conference](https://womeninnuclear.com/news-events/events/2021-women-in-nuclear-global-conference/).
 
 ## DesignCheck
-### 2020.7 - 2020.8
+### 2020.6 - 2020.7
 
 ![designcheck](./assets/img/projects/designcheck.png)
 
@@ -32,14 +31,14 @@ During my summer internship at [Rocscience](https://www.rocscience.com/), I deve
 
 
 ## Autobuilder
-### 2019.5 - present
+### 2019.5 - 2021.4
 
 ![autobuilder](./assets/img/projects/ab.png)
 
 As a co-captain for the [UofT Seismic Design Team](http://seismic.skule.ca/), I worked with 3 other members to develop "Autobuilder", an in-house Python program with a Qt interface that can automatically create thousands of design iterations based on user-defined constraints. By removing repetition in manual modelling efforts and accelerating project delivery, Autobuilder helped us achieve 6th place out of 46 international teams at the [2020 Undergraduate Seismic Design Competition](https://slc.eeri.org/2020-seismic-design-competition/).
 
 ## Canoe Design
-### 2018.9 - present
+### 2018.9 - 2021.5
 
 ![lng](/assets/img/projects/panda.png)
 
