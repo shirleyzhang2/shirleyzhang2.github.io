@@ -12,7 +12,23 @@ date:
 
 ![aia](./assets/img/projects/aia_cropped.png)
 
-During my ongoing internship at [Terrestrial Energy](https://www.terrestrialenergy.com/), I helped design nuclear buildings and reactor support structures for Integral Molten Salt Reactors (IMSR). I focused on the research and development of aircraft impact analysis and presented at the  [2021 Women in Nuclear Global Conference](https://womeninnuclear.com/news-events/events/2021-women-in-nuclear-global-conference/).
+During my ongoing internship at [Terrestrial Energy](https://www.terrestrialenergy.com/), I helped design nuclear buildings and reactor support structures for Integral Molten Salt Reactors (IMSR). Apart from preliminary structural design and seismic analysis, I also worked on the research and development of aircraft impact analysis methodologies which I presented at the  [2021 Women in Nuclear Global Conference](https://womeninnuclear.com/news-events/events/2021-women-in-nuclear-global-conference/).
+
+## Real-Time Mask Detection
+### 2021.5 - 2021.8
+
+![aps360](./assets/img/projects/aps360.png)
+
+For my Applied Fundamentals of Machine Learning course, I developed a real-time face mask detection model using the SSD-MobileNetV2 architecture. The model automades the screening process for mask mandates by not only identifying whether a mask is worn properly, but also classifying the type of mask being worn. In a group of 4, we also implemented the detection model as an iOS application to evaluate the model’s performance in actual use cases.
+
+## Bikeshare Usage Prediction
+### 2021.5 - 2021.8
+
+![aps360](./assets/img/projects/civ1498.png)
+
+For my Data Science for Civil Engineers course, I worked with 2 other students to analyze bike-share data in Toronto from 2017 to 2020. We performed data cleaning, exploratory analysis, and modelling to predict hourly ridership demand. We then used the insights from historic data to inform the feasibility of expanding the bike-share program in the future.
+
+
 
 ## DesignCheck
 ### 2020.6 - 2020.7
