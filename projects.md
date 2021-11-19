@@ -14,6 +14,13 @@ date:
 
 During my ongoing internship at [Terrestrial Energy](https://www.terrestrialenergy.com/), I helped design nuclear buildings and reactor support structures for Integral Molten Salt Reactors (IMSR). Apart from preliminary structural design and seismic analysis, I also worked on the research and development of aircraft impact analysis methodologies which I presented at the  [2021 Women in Nuclear Global Conference](https://womeninnuclear.com/news-events/events/2021-women-in-nuclear-global-conference/).
 
+## Course Search Website
+### 2021.9 - 2021.11
+
+![ece444](./assets/img/projects/ece444.png)
+
+For my Software Engineering course, I worked in a team of 5 to develop a web application named [OneCourse](https://www.https://onecourse.herokuapp.com/) using Python, HTML/CSS, and JavaScript. OneCourse is a centralized platform for finding detailed course information, engaging in course-related discussions, and developing enrolment plans. The frontend is built with Flask, and actions are completed by making REST API requests to the backend​. The backend contains microservices implemented as AWS Lamda functions which are linked with DynamoDB databases for data storage.
+
 ## Real-Time Mask Detection
 ### 2021.5 - 2021.8
 
