@@ -14,6 +14,20 @@ date:
 
 During my ongoing internship at [Terrestrial Energy](https://www.terrestrialenergy.com/), I helped design nuclear buildings and reactor support structures for Integral Molten Salt Reactors (IMSR). Apart from preliminary structural design and seismic analysis, I also worked on the research and development of aircraft impact analysis methodologies which I presented at the  [2021 Women in Nuclear Global Conference](https://womeninnuclear.com/news-events/events/2021-women-in-nuclear-global-conference/).
 
+## Predicive Maintenance Algorithm for HVAC Systems
+### 2021.9 - present
+
+![APS490](./assets/img/projects/aps490.png)
+
+For my senior capsteone project, I am designing a multi-task learning model to predict failutre in HVAC and Controls Systems and minimize service disruptions.
+
+## Automatic Core Logging using Computer Vision
+### 2021.4 - present
+
+![cme499](./assets/img/projects/cme499.png)
+
+For my undergraduate thesis, I am developing a deep learning algorithm that extracts geotechnical and geological information such as RQD, lithologies and facies from core photographs using instance segmentation.
+
 ## Course Search Website
 ### 2021.9 - 2021.11
 
