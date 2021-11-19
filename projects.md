@@ -19,14 +19,14 @@ During my ongoing internship at [Terrestrial Energy](https://www.terrestrialener
 
 ![APS490](./assets/img/projects/aps490.png)
 
-For my senior capsteone project, I am designing a multi-task learning model to predict failutre in HVAC and Controls Systems and minimize service disruptions.
+For my senior capsteone project, I am helping a client in the building services industry to minimize service disruptions by designing a multi-task learning model that predicts the failutre in HVAC and Controls Systems.
 
 ## Automatic Core Logging using Computer Vision
 ### 2021.4 - present
 
 ![cme499](./assets/img/projects/cme499.png)
 
-For my undergraduate thesis, I am developing a deep learning algorithm that extracts geotechnical and geological information such as RQD, lithologies and facies from core photographs using instance segmentation.
+For my undergraduate thesis, I am collaborating with a mineral engineering startup to develop a deep learning algorithm that extracts geotechnical and geological information such as RQD, lithologies and facies from core photographs using instance segmentation.
 
 ## Course Search Website
 ### 2021.9 - 2021.11
