@@ -33,7 +33,7 @@ For my undergraduate thesis, I am collaborating with a mineral engineering start
 
 ![ece444](./assets/img/projects/ece444.png)
 
-For my Software Engineering course, I worked in a team of 5 to develop a web application named [OneCourse](https://www.https://onecourse.herokuapp.com/) using Python, HTML/CSS, and JavaScript. OneCourse is a centralized platform for finding detailed course information, engaging in course-related discussions, and developing enrolment plans. The frontend is built with Flask, and actions are completed by making REST API requests to the backend​. The backend contains microservices implemented as AWS Lamda functions which are linked with DynamoDB databases for data storage.
+For my Software Engineering course, I worked in a team of 5 to develop a web application named [OneCourse](https://onecourse.herokuapp.com/) using Python, HTML/CSS, and JavaScript. OneCourse is a centralized platform for finding detailed course information, engaging in course-related discussions, and developing enrolment plans. The frontend is built with Flask, and actions are completed by making REST API requests to the backend​. The backend contains microservices implemented as AWS Lamda functions which are linked with DynamoDB databases for data storage.
 
 ## Real-Time Mask Detection
 ### 2021.5 - 2021.8
