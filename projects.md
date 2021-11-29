@@ -49,9 +49,7 @@ For my Applied Fundamentals of Machine Learning course, I developed a real-time 
 
 ![aps360](./assets/img/projects/civ1498.png)
 
-For my Data Science for Civil Engineers course, I worked with 2 other students to analyze bike-share data in Toronto from 2017 to 2020. We performed data cleaning, exploratory analysis, and modelling to predict hourly ridership demand. We then used the insights from historic data to inform the feasibility of expanding the bike-share program in the future.
-
-
+For my Data Science for Civil Engineers course, I worked with 2 other students to analyze bike-share data in Toronto from 2017 to 2020. We performed data cleaning, exploratory analysis, and modelling to predict hourly ridership demand. We then used the insights from historic data to inform the feasibility of expanding the bike-share program in the future. I summarized our process and findings in a [Medium article](https://shirleyzhang2.medium.com/toronto-bike-share-data-analysis-943d5810c717).
 
 ## DesignCheck
 ### 2020.6 - 2020.7
