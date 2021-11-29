@@ -9,15 +9,13 @@ Since 2018, I have been conducting research with [Prof. Oya Mercan](https://civm
 
 My research interest lies at the intersection of infrastructure and technology, and I hope to improve the efficiency and resilience of critical infrastructure systems using computational and data-driven techniques.
 
-## Projects
-Some highlights from my academic, research, and industry experiences can be found [here](./projects.html).
-
 ## Publications
 [1] Y. Zhao, H-N Li, X. Fu, **S. Zhang**, O. Mercan. "Seismic Analysis of a Large LNG Tank Considering the Effect of Liquid Volume". *Shock and Vibration* (2020). https://doi.org/10.1155/2020/8889055  
 
 [2] Y. Zhao, H-N Li, **S. Zhang**, O. Mercan, C. Zhang. Seismic Analysis of a Large LNG Tank Considering Different Site Conditions. *Applied Sciences* 10(22):8121 (2020). https://doi.org/10.3390/app10228121
 
-## Other
+<span style="font-size:18px;">[Projects](./projects.html)</span>
+
 <span style="font-size:18px;">[Blog](./blog.html)</span>
 
 <span style="font-size:18px;">[Travel](./travel.html)</span>

@@ -17,9 +17,11 @@ During my ongoing internship at [Terrestrial Energy](https://www.terrestrialener
 ## Predicive Maintenance Algorithm for HVAC Systems
 ### 2021.9 - present
 
-![APS490](./assets/img/projects/aps490.png)
+![APS490](./assets/img/projects/aps490_floorplan.png)
 
-For my senior capsteone project, I am helping a client in the building services industry to minimize service disruptions by designing a multi-task learning model that predicts the failutre in HVAC and Controls Systems.
+For my senior capsteone project, I am working with a multidisciplinary student stem to design a predictive maintenance algorithm for HVAC and Controls Systems.
+[Learn More](portfolio/capstone.html)  
+
 
 ## Automatic Core Logging using Computer Vision
 ### 2021.4 - present
