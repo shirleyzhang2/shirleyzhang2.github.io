@@ -19,9 +19,8 @@ During my ongoing internship at [Terrestrial Energy](https://www.terrestrialener
 
 ![APS490](./assets/img/projects/aps490_floorplan.png)
 
-For my senior capsteone project, I am working with a multidisciplinary student stem to design a predictive maintenance algorithm for HVAC and Controls Systems.
+For my senior capsteone project, I am working with a multidisciplinary student team to design a predictive maintenance algorithm for HVAC and Controls Systems.
 [Learn More](portfolio/capstone.html)  
-
 
 ## Automatic Core Logging using Computer Vision
 ### 2021.4 - present
@@ -58,7 +57,6 @@ For my Data Science for Civil Engineers course, I worked with 2 other students t
 
 During my summer internship at [Arup](https://www.arup.com/), I contributed to [DesignCheck](https://www.autodesk.com/autodesk-university/class/Dynamo-Engineers-Design-All-2018), a C# platform that performs user-defined engineering calculations and creates formatted reports via dynamically generated web APIs. By building a centralized hub of calculations to iterate and control design processes, DesignCheck helps inform, improve, and accelerate project delivery. [(video demo)](https://www.youtube.com/watch?v=tQEU4uQOVuI)
 
-
 ## Settle3
 ### 2019.5 - 2019.8
 
@@ -66,19 +64,18 @@ During my summer internship at [Arup](https://www.arup.com/), I contributed to [
 
 During my summer internship at [Rocscience](https://www.rocscience.com/), I developed <a href=".\docs\pdf\Settle3_update.pdf">ground improvement and settlement calculation features</a> for a 3D Soil Analysis Software called [Settle3](https://www.rocscience.com/software/settle3) using C++. My contributions involved literary review, backend development, user interface design, and documentation.
 
-
 ## Autobuilder
 ### 2019.5 - 2021.4
 
 ![autobuilder](./assets/img/projects/ab.png)
 
-As a co-captain for the [UofT Seismic Design Team](http://seismic.skule.ca/), I worked with 3 other members to develop "Autobuilder", an in-house Python program with a Qt interface that can automatically create thousands of design iterations based on user-defined constraints. By removing repetition in manual modelling efforts and accelerating project delivery, Autobuilder helped us achieve 6th place out of 46 international teams at the [2020 Undergraduate Seismic Design Competition](https://slc.eeri.org/2020-seismic-design-competition/).
+As a co-captain for the [UofT Seismic Design Team](http://seismic.skule.ca/), I worked with 3 other members to develop "Autobuilder", an in-house Python program with a Qt interface that can automatically create thousands of design iterations based on user-defined constraints. By removing repetition in manual modelling efforts and accelerating project delivery, Autobuilder helped us achieve 3rd place out of 37 international teams at the [2021 Undergraduate Seismic Design Competition](https://slc.eeri.org/2021-sdc/).
 
 ## Canoe Design
 ### 2018.9 - 2021.5
 
 ![lng](/assets/img/projects/panda.png)
 
-As the technical director for the [UofT Concrete Canoe Team](https://canoe.skule.ca/), I leveraged MATLAB to determine the levels of stress experienced by the canoe in a variety of static and dynamic loading cases such as construction, transport, and paddling.  I also helped develop a C++ program that optimizes hull geometry by balancing maneuverability and fluid resistance. In 2019, our team won 4th place at the [Canadian National Concrete Canoe Competition](https://www.cscecompetitions.ca/en/home/cnccc/).    
+As the technical director for the [UofT Concrete Canoe Team](https://canoe.skule.ca/), I leveraged MATLAB to determine the levels of stress experienced by the canoe in a variety of static and dynamic loading cases such as construction, transport, and paddling.  I also helped develop a C++ program that optimizes hull geometry by balancing maneuverability and fluid resistance. In 2021, our team won 2nd place at the [Canadian National Concrete Canoe Competition](https://www.cscecompetitions.ca/en/home/cnccc/).    
 
 [Back to home](/)
