@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Introduction
+## About Me
 
 I'm an undergraduate student at the University of Toronto pursuing a major in Civil Engineering and a minor in Artificial Intelligence. Currently, I am working part-time as a structural engineering intern while completing my last year of studies. 
 
@@ -12,9 +12,12 @@ Outside of school, I have over 20 months of industry internship experience in th
 My interests lie at the intersection of infrastructure and technology, and I hope to improve the efficiency and resilience of critical infrastructure systems using computational and data-driven techniques.
 
 ## Publications
+
 [1] Y. Zhao, H-N Li, X. Fu, **S. Zhang**, O. Mercan. "Seismic Analysis of a Large LNG Tank Considering the Effect of Liquid Volume". *Shock and Vibration* (2020). https://doi.org/10.1155/2020/8889055  
 
 [2] Y. Zhao, H-N Li, **S. Zhang**, O. Mercan, C. Zhang. Seismic Analysis of a Large LNG Tank Considering Different Site Conditions. *Applied Sciences* 10(22):8121 (2020). https://doi.org/10.3390/app10228121
+
+## Portfolio
 
 <span style="font-size:18px;">[Projects](./projects.html)</span>
 
