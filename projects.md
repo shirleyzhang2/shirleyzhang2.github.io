@@ -12,29 +12,29 @@ date:
 
 ![aia](./assets/img/projects/aia_cropped.png)
 
-During my ongoing internship at [Terrestrial Energy](https://www.terrestrialenergy.com/), I helped design nuclear buildings and reactor support structures for Integral Molten Salt Reactors (IMSR). Apart from preliminary structural design and seismic analysis, I also worked on the research and development of aircraft impact analysis methodologies which I presented at the  [2021 Women in Nuclear Global Conference](https://womeninnuclear.com/news-events/events/2021-women-in-nuclear-global-conference/).
+During my ongoing internship at [Terrestrial Energy](https://www.terrestrialenergy.com/) (full-time for 1 year and currently part-time), I helped design nuclear buildings and reactor support structures for Integral Molten Salt Reactors (IMSR). Apart from detailed structural design and seismic analysis, I also worked on the research and development of aircraft impact analysis methodologies which I presented at the  [2021 Women in Nuclear Global Conference](https://womeninnuclear.com/news-events/events/2021-women-in-nuclear-global-conference/). To speed up the analysis process, I independently developed a Python script to automate aircraft impact modelling under different scenarios which significantly reduced repetitive manual work.
 
 ## Predicive Maintenance Algorithm for HVAC Systems
 ### 2021.9 - present
 
 ![APS490](./assets/img/projects/aps490_floorplan.png)
 
-For my senior capsteone project, I am working with a multidisciplinary student team to design a predictive maintenance algorithm for HVAC and Controls Systems.
-[Learn More](portfolio/capstone.html)  
+For my senior capsteone project, I am working with a multidisciplinary student team to design a predictive maintenance algorithm for HVAC and Controls Systems. We implemented an RNN-based time-series prediction model and an unsupervised anomaly detection algorithm on heating and airflow sensor data to alert operators 2 hours ahead of failure and reduce service downtime.
+<!-- [Learn More](portfolio/capstone.html)   -->
 
 ## Automatic Core Logging using Computer Vision
 ### 2021.4 - present
 
 ![cme499](./assets/img/projects/cme499.png)
 
-For my undergraduate thesis, I am collaborating with a mineral engineering startup to develop a deep learning algorithm that extracts geotechnical and geological information such as RQD, lithologies and facies from core photographs using instance segmentation.
+For my undergraduate thesis, I am collaborating with a mineral engineering startup called [Kore Geosystems](https://www.koregeosystems.com/) to develop a deep learning algorithm that extracts geotechnical and geological information such as RQD from core photographs using image segmentation.
 
 ## Course Search Website
 ### 2021.9 - 2021.11
 
 ![ece444](./assets/img/projects/ece444.png)
 
-For my Software Engineering course, I worked in a team of 5 to develop a web application named [OneCourse](https://onecourse.herokuapp.com/) using Python, HTML/CSS, and JavaScript. OneCourse is a centralized platform for finding detailed course information, engaging in course-related discussions, and developing enrolment plans. The frontend is built with Flask, and actions are completed by making REST API requests to the backend​. The backend contains microservices implemented as AWS Lamda functions which are linked with DynamoDB databases for data storage.
+For my Software Engineering course, I worked in a team of 5 to develop a web application named [OneCourse](https://onecourse.herokuapp.com/) using Python, HTML/CSS, and JavaScript. OneCourse is a centralized platform for finding detailed course information, engaging in course-related discussions, and developing enrolment plans. The frontend is built with Flask, and actions are completed by making REST API requests to the backend​. The backend contains microservices implemented as AWS Lamda functions which are linked with DynamoDB databases for data storage. [View Video Demo](https://youtu.be/PjRcku7ttuM)
 
 ## Real-Time Mask Detection
 ### 2021.5 - 2021.8
