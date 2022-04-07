@@ -11,7 +11,7 @@ date:
 
 ## Problem Statement
 
-The client for our capstone project is a mechanical and electrical contractor that provides building maintenance services in heating, ventilation, and air conditioning (HVAC) systems. Currently, maintenance is conducted manually through building operator calls and and scheduled servicing. The client would like to automate their building servicing process with AI-driven decision-making based on sensor data they collect from the HVAC systems. Specifically, a proof of concept that uses the sensor information to autonomously identify building system anomalies in the CPPIB building is required. 
+The client for our capstone project is a mechanical and electrical contractor that provides building maintenance services in heating, ventilation, and air conditioning (HVAC) systems. Currently, maintenance is conducted manually through building operator calls and and scheduled servicing. The client would like to automate their building servicing process with AI-driven decision-making based on sensor data they collect from the HVAC systems. Specifically, a proof of concept that uses the sensor information to autonomously identify building system anomalies in a high-rise office building in Toronto is required. 
 
 ![aps490_floorplan](../assets/img/projects/aps490_floorplan.png)
 

@@ -3,7 +3,7 @@ layout: default
 ---
 ## About Me
 
-I'm an undergraduate student at the University of Toronto pursuing a major in Civil Engineering and a minor in Artificial Intelligence Engineering. Currently, I am working part-time as a structural engineering intern while completing my last year of studies. Starting September 2022, I will be completing a Master of Science degree in the department of Civil and Environmental Engineering at Stanford University.
+I'm an undergraduate student at the University of Toronto pursuing a major in Civil Engineering and a minor in Artificial Intelligence Engineering. Currently, I am working part-time as a structural engineering intern while completing my last year of studies. Starting September 2022, I will be working towards a Master of Science degree in the department of Civil and Environmental Engineering at Stanford University.
 
 Since 2018, I have been conducting research with [Prof. Oya Mercan](https://civmin.utoronto.ca/home/about-us/directory/professors/oya-mercan/) on seismic hazard mitigation for large Liquefied Natural Gas (LNG) storage tanks. For my fourth-year capstone project, I am designing a ML-based predictive maintenance algorithm for HVAC systems under the supervision of [Prof. Markus Bussmann](https://www.mie.utoronto.ca/faculty_staff/bussmann/) and [Prof. Seungjae Lee](https://civmin.utoronto.ca/home/about-us/directory/professors/seungjae-lee/). I am also writing an undergraduate thesis on Automatic Drill-core Logging using Deep Learning under the supervision of [Prof. Sebastian Goodfellow](https://civmin.utoronto.ca/home/about-us/directory/professors/sebastian-goodfellow/).
 
