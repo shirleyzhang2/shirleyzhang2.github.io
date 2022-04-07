@@ -15,12 +15,12 @@ date:
 During my ongoing internship at [Terrestrial Energy](https://www.terrestrialenergy.com/) (full-time for 1 year and currently part-time), I helped design nuclear buildings and reactor support structures for Integral Molten Salt Reactors (IMSR). Apart from detailed structural design and seismic analysis, I also worked on the research and development of aircraft impact analysis methodologies which I presented at the  [2021 Women in Nuclear Global Conference](https://womeninnuclear.com/news-events/events/2021-women-in-nuclear-global-conference/). To speed up the analysis process, I independently developed a Python script to automate aircraft impact modelling under different scenarios which significantly reduced repetitive manual work.
 
 ## Predicive Maintenance Algorithm for HVAC Systems
-### 2021.9 - present
+### 2021.9 - 2022.4
 
-![APS490](./assets/img/projects/aps490_floorplan.png)
+![APS490](./assets/img/projects/aps490.png)
 
 For my senior capsteone project, I am working with a multidisciplinary student team to design a predictive maintenance algorithm for HVAC and Controls Systems. We implemented an RNN-based time-series prediction model and an unsupervised anomaly detection algorithm on heating and airflow sensor data to alert operators 2 hours ahead of failure and reduce service downtime.
-<!-- [Learn More](portfolio/capstone.html)   -->
+[Learn More](portfolio/capstone.html)
 
 ## Automatic Core Logging using Computer Vision
 ### 2021.4 - present
