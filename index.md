@@ -15,7 +15,7 @@ My interests lie at the intersection of infrastructure and technology, and I hop
 
 <span style="font-size:18px;">[Projects](./projects.html)</span>
 
-<span style="font-size:18px;">[Travel](./travel.html)</span>
+<span style="font-size:18px;">[Art](./art.html)</span>
 
 <span style="font-size:18px;">[Blog](./blog.html)</span>
 
