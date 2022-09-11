@@ -7,34 +7,35 @@ date:
 
 # Projects
 
-## Aircraft Impact Analysis
-### 2020.9 - present
+## Nuclear Plant Design
+### 2020.9 - 2022.8
 
-![aia](./assets/img/projects/aia_cropped.png)
+![TEI](./assets/img/projects/TEI.jpg)
 
-During my ongoing internship at [Terrestrial Energy](https://www.terrestrialenergy.com/) (full-time for 1 year and currently part-time), I helped design nuclear buildings and reactor support structures for Integral Molten Salt Reactors (IMSR). Apart from detailed structural design and seismic analysis, I also worked on the research and development of aircraft impact analysis methodologies which I presented at the  [2021 Women in Nuclear Global Conference](https://womeninnuclear.com/news-events/events/2021-women-in-nuclear-global-conference/). To speed up the analysis process, I independently developed a Python script to automate aircraft impact modelling under different scenarios which significantly reduced repetitive manual work.
+During my 2-year internship at [Terrestrial Energy](https://www.terrestrialenergy.com/) (full-time for 1 year and part-time during school), I helped design nuclear buildings and reactor support structures for Integral Molten Salt Reactors (IMSR). Apart from detailed structural design and seismic analysis, I also worked on the research and development of aircraft impact analysis methodologies which I presented at the  [2021 Women in Nuclear Global Conference](https://womeninnuclear.com/news-events/events/2021-women-in-nuclear-global-conference/). To speed up the analysis process, I developed a Python script to automate aircraft impact modelling under different scenarios which significantly reduced repetitive manual work.
 
 ## Predicive Maintenance Algorithm for HVAC Systems
 ### 2021.9 - 2022.4
 
-![APS490](./assets/img/projects/aps490.png)
+![aps490](./assets/img/projects/aps490.png)
 
-For my senior capsteone project, I am working with a multidisciplinary student team to design a predictive maintenance algorithm for HVAC and Controls Systems. We implemented an RNN-based time-series prediction model and an unsupervised anomaly detection algorithm on heating and airflow sensor data to alert operators 2 hours ahead of failure and reduce service downtime.
-[Learn More](portfolio/capstone.html)
+For my senior capstone project, I worked with a building services company ([Modern Niagara Group](https://modernniagara.com/)) and a multidisciplinary student team to design a predictive maintenance algorithm for HVAC and Controls Systems. We implemented an RNN-based time-series prediction model and an unsupervised anomaly detection algorithm on heating and airflow sensor data to alert operators 2 hours ahead of failure and reduce service downtime. <a href=".\docs\pdf\APS490 Poster - Team MNG.pdf">View poster</a>
+<!--[Learn More](portfolio/capstone.html)-->
 
 ## Automatic Core Logging using Computer Vision
-### 2021.4 - present
+### 2021.4 - 2022.4
 
 ![cme499](./assets/img/projects/cme499.png)
 
-For my undergraduate thesis, I am collaborating with a mineral engineering startup called [Kore Geosystems](https://www.koregeosystems.com/) to develop a deep learning algorithm that extracts geotechnical and geological information such as RQD from core photographs using image segmentation.
+For my undergraduate thesis, I collaborated with a mineral engineering startup called [Kore Geosystems](https://www.koregeosystems.com/) to develop a deep learning algorithm that extracts geotechnical and geological information such as RQD from core photographs using image segmentation. I also deployed the ML model as a web application. <a href=".\docs\pdf\CME499_Thesis_SZ-compressed.pdf">View Thesis</a>
+
 
 ## Course Search Website
 ### 2021.9 - 2021.11
 
 ![ece444](./assets/img/projects/ece444.png)
 
-For my Software Engineering course, I worked in a team of 5 to develop a web application named [OneCourse](https://onecourse.herokuapp.com/) using Python, HTML/CSS, and JavaScript. OneCourse is a centralized platform for finding detailed course information, engaging in course-related discussions, and developing enrolment plans. The frontend is built with Flask, and actions are completed by making REST API requests to the backend​. The backend contains microservices implemented as AWS Lamda functions which are linked with DynamoDB databases for data storage. [View Video Demo](https://youtu.be/PjRcku7ttuM)
+For my Software Engineering course, I worked in a team of 5 to develop a web application named [OneCourse](https://onecourse.herokuapp.com/) using Python, HTML/CSS, and JavaScript. OneCourse is a centralized platform for finding detailed course information, engaging in course-related discussions, and developing enrolment plans. The frontend is built with Flask, and actions are completed by making REST API requests to the backend​. The backend contains microservices implemented as AWS Lamda functions which are linked with DynamoDB databases for data storage. [View video demo](https://youtu.be/PjRcku7ttuM)
 
 ## Real-Time Mask Detection
 ### 2021.5 - 2021.8
@@ -55,14 +56,14 @@ For my Data Science for Civil Engineers course, I worked with 2 other students t
 
 ![designcheck](./assets/img/projects/designcheck.png)
 
-During my summer internship at [Arup](https://www.arup.com/), I contributed to [DesignCheck](https://www.autodesk.com/autodesk-university/class/Dynamo-Engineers-Design-All-2018), a C# platform that performs user-defined engineering calculations and creates formatted reports via dynamically generated web APIs. By building a centralized hub of calculations to iterate and control design processes, DesignCheck helps inform, improve, and accelerate project delivery. [(video demo)](https://www.youtube.com/watch?v=tQEU4uQOVuI)
+During my summer internship at [Arup](https://www.arup.com/), I contributed to [DesignCheck](https://www.autodesk.com/autodesk-university/class/Dynamo-Engineers-Design-All-2018), a C# platform that performs user-defined engineering calculations and creates formatted reports via dynamically generated web APIs. By building a centralized hub of calculations to iterate and control design processes, DesignCheck helps inform, improve, and accelerate project delivery. [View video demo](https://www.youtube.com/watch?v=tQEU4uQOVuI)
 
 ## Settle3
 ### 2019.5 - 2019.8
 
 ![settle3](./assets/img/projects/settle3.PNG)
 
-During my summer internship at [Rocscience](https://www.rocscience.com/), I developed <a href=".\docs\pdf\Settle3_update.pdf">ground improvement and settlement calculation features</a> for a 3D Soil Analysis Software called [Settle3](https://www.rocscience.com/software/settle3) using C++. My contributions involved literary review, backend development, user interface design, and documentation.
+During my summer internship at [Rocscience](https://www.rocscience.com/), I developed ground improvement and settlement calculation features for a 3D Soil Analysis Software called [Settle3](https://www.rocscience.com/software/settle3) using C++. My contributions involved literary review, backend development, user interface design, and documentation. <a href=".\docs\pdf\Settle3_update.pdf">View product update</a>
 
 ## Autobuilder
 ### 2019.5 - 2021.4
