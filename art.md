@@ -7,7 +7,7 @@ date:
 
 # Sketches
 
-## Travel
+## Watercolor
 
 <!--### Sensoji Temple, Tokyo-->
 <!--![sensoji_wc](./assets/img/sketches/sensoji.jpg)-->

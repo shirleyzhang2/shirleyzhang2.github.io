@@ -35,14 +35,14 @@ For my undergraduate thesis, I collaborated with a mineral engineering startup c
 
 ![ece444](./assets/img/projects/ece444.png)
 
-For my Software Engineering course, I worked in a team of 5 to develop a web application named [OneCourse](https://onecourse.herokuapp.com/) using Python, HTML/CSS, and JavaScript. OneCourse is a centralized platform for finding detailed course information, engaging in course-related discussions, and developing enrolment plans. The frontend is built with Flask, and actions are completed by making REST API requests to the backend​. The backend contains microservices implemented as AWS Lamda functions which are linked with DynamoDB databases for data storage. [View video demo](https://youtu.be/PjRcku7ttuM)
+For my Software Engineering course, I worked in a team of 5 to develop a web application named [OneCourse](https://onecourse.herokuapp.com/) using Python, HTML/CSS, and JavaScript. OneCourse is a centralized platform for finding detailed course information, engaging in course-related discussions, and developing enrolment plans. The frontend is built with Flask, and actions are completed by making REST API requests to the backend​. The backend contains microservices implemented as AWS Lamda functions which are linked with DynamoDB databases for data storage. Our project was voted Top 3 by classmates and won a bonus mark! [View Github repo](https://github.com/shirleyzhang2/project1-education-pathways-group-1-teamone)[View video demo](https://youtu.be/PjRcku7ttuM)
 
 ## Real-Time Mask Detection
 ### 2021.5 - 2021.8
 
 ![aps360](./assets/img/projects/aps360.png)
 
-For my Applied Fundamentals of Machine Learning course, I developed a real-time face mask detection model using the SSD-MobileNetV2 architecture. The model automades the screening process for mask mandates by not only identifying whether a mask is worn properly, but also classifying the type of mask being worn. In a group of 4, we also implemented the detection model as an iOS application to evaluate the model’s performance in actual use cases.
+For my Applied Fundamentals of Machine Learning course, I developed a real-time face mask detection model using the SSD-MobileNetV2 architecture. The model automades the screening process for mask mandates by not only identifying whether a mask is worn properly, but also classifying the type of mask being worn. In a group of 4, we also implemented the detection model as an iOS application to evaluate the model’s performance in actual use cases. <a href=".\docs\pdf\APS360_Report.pdf">View final report</a>
 
 ## Bikeshare Usage Prediction
 ### 2021.5 - 2021.8
