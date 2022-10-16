@@ -8,6 +8,14 @@ date:
 
 [comment]: <> (Check http://127.0.0.1:4000/news.html local updates)
 
+## 2022
+
+**2022.10** Started working part-time as a Data Science Engineering intern at the <a href="https://lbre.stanford.edu/sem/what-we-do/campus-energy-operations">Energy Operations Department</a> on campus.
+
+**2022.09** Began pursuing an MS degree in Civil Engineering <a href="https://cee.stanford.edu/academics-admission/graduate-degree-programs/sustainable-design-construction/sustainable-design#SDCSUS">(Sustainable Urban Systems)</a> at Stanford University.
+
+**2022.06** Graduated from the University of Toronto with High Honours and the <a href="https://undergrad.engineering.utoronto.ca/news/2021-2022-award-winners-from-the-u-of-t-engineering-class-of-2t2/">Otto Holden Scholarship</a>.
+
 ## 2021
 
 **2021.10** Delivered an oral presentation on "Design of Nuclear Facilities for Aircraft Impact" at the <a href="https://win-global.org/activities/annual">Women in Nuclear Global Conference</a>.
