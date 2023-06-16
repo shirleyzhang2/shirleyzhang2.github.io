@@ -8,6 +8,12 @@ date:
 
 [comment]: <> (Check http://127.0.0.1:4000/news.html local updates)
 
+## 2023
+
+**2023.06** Started my Digital Engineering internship at <a href="https://www.arup.com/">Arup</a> Los Angeles!
+
+**2023.04** Took on a Research Assistanceship for a community climate resilience project called "<a href="https://www.ourcommunitiesourbay.org/">Our Communities, Our Bay</a>".
+
 ## 2022
 
 **2022.10** Started working part-time as a Data Science Engineering intern at the <a href="https://lbre.stanford.edu/sem/what-we-do/campus-energy-operations">Energy Operations Department</a> on campus.
