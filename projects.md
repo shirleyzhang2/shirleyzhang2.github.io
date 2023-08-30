@@ -7,9 +7,14 @@ date:
 
 # Projects
 
-## Optimized & automated structural design
+## Concrete Design Optimization
 ### 2023.01-2023.03
+![Arup](./assets/img/projects/cp2.jpg)
+During my summer internship at [Arup's LA office](https://www.arup.com/offices/united-states-of-america/los-angeles), I contributed to the digital design delivery on the BART Silicon Valley Phase II megaproject. Working closely with the Bridges & Civil Structures Team, we deployed data-driven workflows using Python, SQL and Grasshopper scripts to automate and accelerate the processing of FEA models and engineering calculations. I also designed and launched a holistic framework for leadership to measure whether our digital initiatives are delivering business results.
 
+## Concrete Design Optimization
+### 2023.01-2023.03
+![structures-pal](./assets/img/projects/structures_pal.png)
 In my AI Applications in the AEC Industry course, I worked with a start-up named [Structure Pal](https://www.structure-pal.com/) to develop a data science workflow that predicts the most efficient reinforced concrete column cross-sections using building characteristics. In the client's words, my solution enabled them to "learn new things about their data, and they can now consider new methods to deploy in their software for better and faster results".
 
 ## Natural Language Prompts for Text Classification
