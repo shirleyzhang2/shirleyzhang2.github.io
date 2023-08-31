@@ -7,8 +7,8 @@ date:
 
 # Projects
 
-## Concrete Design Optimization
-### 2023.01-2023.03
+## Digital Design Delivery
+### 2023.06-2023.08
 ![Arup](./assets/img/projects/cp2.jpg)
 During my summer internship at [Arup's LA office](https://www.arup.com/offices/united-states-of-america/los-angeles), I contributed to digital design delivery efforts on the BART Silicon Valley Phase II megaproject. Working closely with the Bridges & Civil Structures Team, we deployed data-driven workflows using Python, SQL and Grasshopper scripts to automate and accelerate the processing of FEA models and engineering calculations. I also designed and launched a holistic framework for leadership to measure whether our digital initiatives are delivering business results.
 
