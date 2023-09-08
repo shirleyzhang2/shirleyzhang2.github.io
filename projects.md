@@ -12,6 +12,11 @@ date:
 ![Arup](./assets/img/projects/cp2.jpg)
 During my summer internship at [Arup's LA office](https://www.arup.com/offices/united-states-of-america/los-angeles), I contributed to digital design delivery efforts on the BART Silicon Valley Phase II megaproject. Working closely with the Bridges & Civil Structures Team, we deployed data-driven workflows using Python, SQL and Grasshopper scripts to automate and accelerate the processing of FEA models and engineering calculations. I also designed and launched a holistic framework for leadership to measure whether our digital initiatives are delivering business results.
 
+## Community Resilience
+### 2023.04-2023.06
+![OCOB](./assets/img/projects/ocob.png)
+Last Spring Quarter, I worked with [Professor Wong-Parodi](https://earth.stanford.edu/people/gabrielle-wong-parodi) in the Stanford Earth Systems Science Department as a Graduate Student Researcher on the [Our Communities, Our Bay](https://www.ourcommunitiesourbay.org/) Project. Our goal is to study the health impact of climate hazards such as wildfire smoke and implement technologies to protect vulnerable communities. I developed R scripts to collect, clean, and analyze real-time air quality sensor and sleep tracker data using device APIs, then created a Python program to summarize and distribute personalized research findings and recommendations to hundreds of study participants. 
+
 ## Concrete Design Optimization
 ### 2023.01-2023.03
 ![structures-pal](./assets/img/projects/structures_pal.png)
